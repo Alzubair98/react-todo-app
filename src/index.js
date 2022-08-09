@@ -2,6 +2,9 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import TodoContainer from './component/TodoContainer'
 
+// StyleSheet
+import './App.css'
+
 ReactDOM.render(
     <React.StrictMode>
     <TodoContainer />
